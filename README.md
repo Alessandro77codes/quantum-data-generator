@@ -4,7 +4,7 @@ Este é um gerador de massa de dados dinâmico, responsivo e inteligente, desenv
 
 ## 🚀 Visualização do Painel (Preview)
 
-<!<img width="1881" height="924" alt="Screenshot 2026-06-18 091740" src="https://github.com/user-attachments/assets/7c858793-e73a-4299-8739-1ab1db192f3a" />-- ARRASTE SUA FOTO EXATAMENTE NA LINHA ABAIXO -->
+<!<img width="1881" height="924" alt="Screenshot 2026-06-18 091740" src="https://github.com/user-attachments/assets/7c858793-e73a-4299-8739-1ab1db192f3a" />
 <img width="1879" height="917" alt="Screenshot 2026-06-18 091716" src="https://github.com/user-attachments/assets/5711ed24-2863-4559-bb6d-93897227dae6" />
 <img width="1891" height="1030" alt="Screenshot 2026-06-18 091434" src="https://github.com/user-attachments/assets/391cf79a-5a59-43f2-b4d5-03774b76feea" />
 
