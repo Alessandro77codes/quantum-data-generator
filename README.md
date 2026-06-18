@@ -1,16 +1,23 @@
-# React + Vite
+# ⚡ Quantum Data Generator - ToolKit para QA
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um gerador de massa de dados dinâmico, responsivo e inteligente, desenvolvido com **React** e **Tailwind CSS**. O projeto foi construído especificamente para otimizar o dia a dia de analistas de QA (Garantia de Qualidade) e desenvolvedores, permitindo a criação rápida de payloads realistas para automações de testes e validações de formulários.
 
-Currently, two official plugins are available:
+## 🚀 Visualização do Painel (Preview)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<!<img width="1881" height="924" alt="Screenshot 2026-06-18 091740" src="https://github.com/user-attachments/assets/7c858793-e73a-4299-8739-1ab1db192f3a" />-- ARRASTE SUA FOTO EXATAMENTE NA LINHA ABAIXO -->
+<img width="1879" height="917" alt="Screenshot 2026-06-18 091716" src="https://github.com/user-attachments/assets/5711ed24-2863-4559-bb6d-93897227dae6" />
+<img width="1891" height="1030" alt="Screenshot 2026-06-18 091434" src="https://github.com/user-attachments/assets/391cf79a-5a59-43f2-b4d5-03774b76feea" />
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+## 🛠️ Funcionalidades Principais
+* **Módulos Independentes:** 8 cards interativos para geração rápida de dados (Emails, CPF/CNPJ, Endereços, Telefones, Cartões de Crédito, Textos Mock, Estruturas JSON e Endpoints de API).
+* **Algoritmos Reais de Validação:** Geração de CPFs e CNPJs matematicamente válidos utilizando as regras oficiais de validação de dígitos.
+* **Console de Destaque Dinâmico:** Visualização centralizada no estilo terminal (`>_`) com botão integrado de cópia rápida para a área de transferência.
+* **Velocímetro Futurista Integrado:** Gráfico tecnológico de performance e status renderizado puramente em SVG com efeitos neon e linhas de circuitos integrados de alta performance.
+* **Design Premium Fluido:** Interface moderna inspirada em dashboards SaaS corporativos, com modo escuro avançado e sidebar de navegação lateral rápida.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💻 Tecnologias Utilizadas
+* **React** (Hooks, gerenciamento de estados dinâmicos e renderização eficiente)
+* **Tailwind CSS** (Estilização utilitária e componentes modernos)
+* **SVG Inline** (Construção gráfica de alta performance)
