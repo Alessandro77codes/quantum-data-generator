@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: #0D1117;
+  --color-cardCustom: #161B22;
+  --color-quantum: #0605AB;
+  --color-quantumHover: #1426EA;
+  --color-neon: #00FF66;
+  --color-txtPrimary: #FFFFFF;
+  --color-txtSecondary: #B3B8C5;
+}
